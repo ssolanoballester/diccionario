@@ -1,0 +1,21 @@
+git add file.py
+git commit -m "commentaries"
+git push origin master
+
+Example:
+root@vmwz636:~/pruebagit/diccionario# vim diccionario2_secciones.py
+root@vmwz636:~/pruebagit/diccionario# vi diccionario2_secciones.py
+root@vmwz636:~/pruebagit/diccionario# git add diccionario2_secciones.py
+root@vmwz636:~/pruebagit/diccionario# git commit -m "add url of git basics"
+[master 0d5c9f0] add url of git basics
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+root@vmwz636:~/pruebagit/diccionario# git push origin master
+Username for 'https://github.com': ssolanoballester
+Password for 'https://ssolanoballester@github.com':
+Counting objects: 3, done.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 348 bytes | 0 bytes/s, done.
+Total 3 (delta 2), reused 0 (delta 0)
+To https://github.com/ssolanoballester/diccionario.git
+   3d02a8b..0d5c9f0  master -> master
+root@vmwz636:~/pruebagit/diccionario#
