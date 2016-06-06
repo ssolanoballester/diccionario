@@ -12,7 +12,7 @@ except ImportError:
 # Important url's
 # https://pymotw.com/2/ConfigParser/
 # https://wiki.python.org/moin/ConfigParserExamples
-#
+# http://rogerdudler.github.io/git-guide/
 #
 #
 #
